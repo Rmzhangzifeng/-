@@ -11,6 +11,9 @@ public class Example {
 
     @RequestMapping("/la")
     public String home(){
+
+        System.out.print("ideaTEst2");
+        System.out.print("ideaTEst1");
         return "hello world";
     }
 }
