@@ -15,6 +15,8 @@ public class Example {
         System.out.print("ideaTEst3");
         System.out.print("ideaTEst1");
         System.out.print("ideaTEst2");
+        System.out.print("ideaTEst4");
+        System.out.print("122");
         return "hello world";
     }
 }
