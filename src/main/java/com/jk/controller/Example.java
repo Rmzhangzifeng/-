@@ -8,7 +8,28 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @EnableAutoConfiguration
 public class Example {
-
+    /**
+     *
+     *----------Dragon be here!----------/
+     * 　　　┏┓　　　┏┓
+     * 　　┏┛┻━━━┛┻┓
+     * 　　┃　　　　　　　┃
+     * 　　┃　　　━　　　┃
+     * 　　┃　┳┛　┗┳　┃
+     * 　　┃　　　　　　　┃
+     * 　　┃　　　┻　　　┃
+     * 　　┃　　　　　　　┃
+     * 　　┗━┓　　　┏━┛
+     * 　　　　┃　　　┃神兽保佑
+     * 　　　　┃　　　┃代码无BUG！
+     * 　　　　┃　　　┗━━━┓
+     * 　　　　┃　　　　　　　┣┓
+     * 　　　　┃　　　　　　　┏┛
+     * 　　　　┗┓┓┏━┳┓┏┛
+     * 　　　　　┃┫┫　┃┫┫
+     * 　　　　　┗┻┛　┗┻┛
+     * ━━━━━━神兽出没━━━━━━by:coder-pig
+     */
     @RequestMapping("/la")
     public String home(){
 
